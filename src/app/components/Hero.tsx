@@ -41,7 +41,7 @@ export function Hero() {
   const fullText = "I build systems that turn raw data → real decisions";
   const [showCursor, setShowCursor] = useState(true);
 
-  const roles = ["Data Analyst", "Data Scientist", "Data Engineer"];
+  const roles = ["Aspiring Data Analyst", "Aspiring Data Scientist", "Aspiring Data Engineer"];
   const [roleIndex, setRoleIndex] = useState(0);
 
   useEffect(() => {
@@ -128,7 +128,7 @@ export function Hero() {
               className="text-[#34D399] text-xs"
               style={{ fontFamily: "DM Mono" }}
             >
-              Available for Internships
+              Open to Internships & Full-Time Roles
             </span>
           </motion.div>
 

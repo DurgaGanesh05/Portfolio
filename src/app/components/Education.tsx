@@ -50,7 +50,7 @@ export function Education() {
         {/* Horizontal Timeline */}
         <div className="relative">
           {/* Timeline Line */}
-          <div className="absolute top-1/2 left-0 right-0 h-0.5 -translate-y-1/2">
+          <div className="absolute top-[60%] left-0 right-0 h-0.5 -translate-y-1/2">
             <motion.div
               className="h-full bg-gradient-to-r from-[#6B7280] via-[#A78BFA] to-[#22D3EE]"
               initial={{ scaleX: 0 }}
