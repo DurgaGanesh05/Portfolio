@@ -259,7 +259,7 @@ export function Hero() {
         >
           <div className="relative w-[340px] h-[340px] rounded-full border-4 border-[#6366F1]/30 shadow-[0_0_80px_rgba(34,211,238,0.35)] overflow-hidden">
             <img
-              src="/image.png"
+              src="/profile2.png"
               alt="S. V. Durga Ganesh"
               className="w-full h-full object-cover"
             />
