@@ -6,11 +6,9 @@ A modern, responsive portfolio website showcasing data science projects, skills,
 
 ## 🌐 Live Demo
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfoliods-mu.vercel.app)
 
-**View Live Site:** [https://your-portfolio.vercel.app](https://your-portfolio.vercel.app)
-
-*Replace `your-portfolio` with your actual Vercel deployment URL*
+**View Live Site:** [https://portfoliods-mu.vercel.app](https://portfoliods-mu.vercel.app)
 
 ## 🚀 Features
 
